@@ -1,0 +1,37 @@
+﻿  Generando código
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\PathFinder.cpp(174): warning C4172: devolución de dirección de la variable local o temporal: it
+d:\agenda_automatica\project2\mythology_parade_engine\core\unit.cpp : fatal error C1001: Error interno en el compilador.
+  Archivo del compilador 'd:\agent\_work\4\s\src\vctools\Compiler\Utc\src\p2\main.c', línea 160
+   Para solucionar este problema, intente simplificar o cambiar el programa en aquellas líneas próximas a las ubicaciones que se enumeran a continuación.
+  Elija el comando Soporte técnico en el menú Ayuda de Visual C++ 
+   o abra el archivo de ayuda de soporte técnico para obtener más información
+    link!RaiseException()+0x62
+    link!CxxThrowException()+0x66
+    link!std::_Xout_of_range()+0x1f
+    link!InvokeCompilerPass()+0x34346
+    link!InvokeCompilerPass()+0x24fe4
+    link!InvokeCompilerPass()+0x24f15
+    link!InvokeCompilerPass()+0x25432
+    link!InvokeCompilerPass()+0x25364
+    link!InvokeCompilerPass()+0x28c7d
+    link!InvokeCompilerPass()+0x2873d
+    link!CloseTypeServerPDB()+0xeaa1d
+  
+d:\agenda_automatica\project2\mythology_parade_engine\core\unit.cpp : fatal error C1001: Error interno en el compilador.
+  Archivo del compilador 'd:\agent\_work\4\s\src\vctools\Compiler\Utc\src\p2\main.c', línea 160
+   Para solucionar este problema, intente simplificar o cambiar el programa en aquellas líneas próximas a las ubicaciones que se enumeran a continuación.
+  Elija el comando Soporte técnico en el menú Ayuda de Visual C++ 
+   o abra el archivo de ayuda de soporte técnico para obtener más información
+    link!RaiseException()+0x62
+    link!CxxThrowException()+0x66
+    link!std::_Xout_of_range()+0x1f
+    link!InvokeCompilerPass()+0x34346
+    link!InvokeCompilerPass()+0x24fe4
+    link!InvokeCompilerPass()+0x24f15
+    link!InvokeCompilerPass()+0x25432
+    link!InvokeCompilerPass()+0x25364
+    link!InvokeCompilerPass()+0x28c7d
+    link!InvokeCompilerPass()+0x2873d
+    link!CloseTypeServerPDB()+0xeaa1d
+  
+LINK : fatal error LNK1257: error de generación de código

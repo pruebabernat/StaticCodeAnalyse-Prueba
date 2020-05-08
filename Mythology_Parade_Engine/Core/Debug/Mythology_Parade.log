@@ -1,0 +1,63 @@
+﻿  Unit.cpp
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(188,90): warning C4244:  'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(188,90): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(188,90): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(188,90): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(188,90): warning C4244:         ]
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(188,78): warning C4244:  'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(188,78): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(188,78): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(188,78): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(188,78): warning C4244:         ]
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(214,84): warning C4244:  'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(214,84): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(214,84): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(214,84): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(214,84): warning C4244:         ]
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(214,59): warning C4244:  'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(214,59): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(214,59): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(214,59): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(214,59): warning C4244:         ]
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(278,31): warning C4244:  '=': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(278,31): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(278,31): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(278,31): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(278,31): warning C4244:         ]
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(279,28): warning C4244:  '=': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(279,28): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(279,28): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(279,28): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(279,28): warning C4244:         ]
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(281,69): warning C4244:  'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(281,69): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(281,69): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(281,69): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(281,69): warning C4244:         ]
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(281,40): warning C4244:  'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(281,40): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(281,40): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(281,40): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(281,40): warning C4244:         ]
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(307,2): warning C4060:  la instrucción switch no contiene etiquetas 'case' ni 'default'
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(314,57): warning C4244:  'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(314,57): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(314,57): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(314,57): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(314,57): warning C4244:         ]
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(314,45): warning C4244:  'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(314,45): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(314,45): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(314,45): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(314,45): warning C4244:         ]
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(379,64): warning C4244:  'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(379,64): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(379,64): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(379,64): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(379,64): warning C4244:         ]
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(379,52): warning C4244:  'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(379,52): warning C4244:         with
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(379,52): warning C4244:         [
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(379,52): warning C4244:             TYPE=float
+D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Core\Unit.cpp(379,52): warning C4244:         ]
+  Mythology_Parade.vcxproj -> D:\Agenda_Automatica\Project2\Mythology_Parade_Engine\Debug\Mythology_Parade.exe
